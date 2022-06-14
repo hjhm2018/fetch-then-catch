@@ -1,0 +1,21 @@
+table,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+thead {
+    background-color: navy;
+    color: white;
+}
+
+table {
+    margin: 0 auto;
+}
+
+h1,
+tbody {
+    text-align: center;
+}
